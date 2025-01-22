@@ -2,3 +2,4 @@ theme: minima
 title: Triángulos Cabri 
 author: Ricardo Barroso Campos
 description: Una web hecha con Jekyll
+markdown: kramdown
