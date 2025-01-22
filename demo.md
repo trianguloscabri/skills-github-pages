@@ -1,4 +1,10 @@
-# Galeria de posibilidades
+---
+use_math: true
+title: Página de demostración
+---
+
+
+# Galeria de posibilidades de Github Pages
 
 Esta página es una demostracion de posibles capacidades para una web hecha en Markdown-Jekyll.
 
@@ -10,10 +16,8 @@ $$
 
 ## Código fuente 
 
-```html
-{% if page.use_math %}
-{% include mathjax_support.html %}
-{% endif %}
+```java
+System.out.println("Hola Mundo");
 ```
 
 
