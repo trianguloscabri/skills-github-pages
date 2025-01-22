@@ -5,7 +5,7 @@ title: Galeria de posibilidades de Github Pages
 
 Esta página es una demostracion de posibles capacidades para una web hecha en Markdown-Jekyll.
 
-## Tabla
+## Presentar información en una Tabla
 
 |          | Lunes | Miércoles | Viernes |
 | :------: | :---: | :-------: | :-----: |
@@ -13,14 +13,18 @@ Esta página es una demostracion de posibles capacidades para una web hecha en M
 | opción 2 |       |     x     |         |
 | opcion 3 |   x   |           |    x    |
 
+
 ## Imagen en nuestra propia estructura web
 
-![Proporcion cordobesa](3827f3b6832fba42dfe18bb3b470b5c6.jpg)
+![zorrito](3827f3b6832fba42dfe18bb3b470b5c6.jpg)
+
 
 ## Imagen en una localización externa (en otro dominio)
+
 No es una práctica recomendada y deberíamos evitarla en lo posible.
 
 ![Definicion de triangulos](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Euler_diagram_of_triangle_types_es.svg/1920px-Euler_diagram_of_triangle_types_es.svg.png){ width="500" height="400"}
+
 
 ## Videos de Youtube
 
@@ -35,7 +39,7 @@ $$
       \huge  i\hbar \frac{\partial \Psi(x,t)}{\partial t} = -\frac{\hbar^2}{2m} \frac{\partial^2 \Psi(x,t)}{\partial x^2} + V(x,t)\Psi(x,t)
 $$
 
-# Un fichero de geogebra Online
+# Un fichero de Geogebra local
 
 Este es un ejemplo de cómo incrustar un archivo GeoGebra:
 
