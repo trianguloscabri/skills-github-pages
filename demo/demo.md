@@ -5,6 +5,10 @@ title: Galeria de posibilidades de Github Pages
 
 Esta página es una demostracion de posibles capacidades para una web hecha en Markdown-Jekyll.
 
+## Tabla
+
+
+
 ## Imagen en nuestra propia estructura web
 
 ![Proporcion cordobesa](curso20162017/extra800dam.gif)
@@ -12,7 +16,7 @@ Esta página es una demostracion de posibles capacidades para una web hecha en M
 ## Imagen en una localización externa (en otro dominio)
 No es una práctica recomendada y deberíamos evitarla en lo posible.
 
-![Definicion de triangulos](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Euler_diagram_of_triangle_types_es.svg/1920px-Euler_diagram_of_triangle_types_es.svg.png){: width="550" }
+![Definicion de triangulos](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Euler_diagram_of_triangle_types_es.svg/1920px-Euler_diagram_of_triangle_types_es.svg.png){: width="500" }
 
 ## Videos de Youtube
 
@@ -34,7 +38,7 @@ Este es un ejemplo de cómo incrustar un archivo GeoGebra:
 <div id="geogebra"></div>
 <script>
   var applet = new GGBApplet({
-    "filename": "https://www.geogebra.org/material/iframe/e2vzakjh",
+    "filename": "material-fpgkybfj.ggb",
     "showToolbar": true,
     "showAlgebraInput": true,
     "showMenuBar": true
@@ -46,12 +50,13 @@ Este es un ejemplo de cómo incrustar un archivo GeoGebra:
 
 ## Código fuente 
 
+Imprimir un "Hola Mundo" con Java
 ```java
 System.out.println("Hola Mundo");
 ```
 
+Abrir un fichero con Python
 {% highlight python linenos %}
-# Abrir un fichero en modo lectura
 with open('archivo.txt', 'r') as f:
     for linea in f:
         print(linea.strip())
