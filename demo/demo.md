@@ -55,6 +55,12 @@ with open('archivo.txt', 'r') as f:
         print(linea.strip())
 {% endhighlight %}
 
+
+## Contar historias con **emojis**
+
+❓🙏😇✌️🤝🟰🙋‍♀️👀💀🔨🤷‍♂️🧾😶👭🤫
+
+
 ## Un fichero de **Geogebra** local
 
 Este es un ejemplo de cómo incrustar un archivo GeoGebra:
