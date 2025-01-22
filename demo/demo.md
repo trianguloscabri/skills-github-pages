@@ -26,7 +26,7 @@ Una imagen en otro dominio no es una práctica recomendada y deberíamos evitarl
 ![Definicion de triangulos](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Euler_diagram_of_triangle_types_es.svg/1920px-Euler_diagram_of_triangle_types_es.svg.png){ width="500" height="400"}
 
 
-## Videos de Youtube
+## **Videos** de Youtube
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BUA0tX_ZxMY?si=L_aT3IwHE92OEOPF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
