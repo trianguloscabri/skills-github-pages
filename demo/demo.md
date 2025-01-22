@@ -23,7 +23,7 @@ Esta página es una demostracion de posibles capacidades para una web hecha en M
 
 Una imagen en otro dominio no es una práctica recomendada y deberíamos evitarla en lo posible.
 
-![Definicion de triangulos](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Euler_diagram_of_triangle_types_es.svg/1920px-Euler_diagram_of_triangle_types_es.svg.png){ width="500" height="400"}
+![Definicion de triangulos|500x400](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Euler_diagram_of_triangle_types_es.svg/1920px-Euler_diagram_of_triangle_types_es.svg.png)
 
 
 ## **Videos** de Youtube
