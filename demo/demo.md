@@ -7,11 +7,15 @@ Esta página es una demostracion de posibles capacidades para una web hecha en M
 
 ## Tabla
 
-
+|          | Lunes | Miércoles | Viernes |
+| :------: | :---: | :-------: | :-----: |
+| opcion 1 |       |           |    x    |
+| opción 2 |       |     x     |         |
+| opcion 3 |   x   |           |    x    |
 
 ## Imagen en nuestra propia estructura web
 
-![Proporcion cordobesa](curso20162017/extra800dam.gif)
+![Proporcion cordobesa](3827f3b6832fba42dfe18bb3b470b5c6.jpg)
 
 ## Imagen en una localización externa (en otro dominio)
 No es una práctica recomendada y deberíamos evitarla en lo posible.
