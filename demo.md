@@ -1,10 +1,7 @@
 ---
 usemathjax: true
-title: Página de demostración
+title: Galeria de posibilidades de Github Pages
 ---
-
-
-# Galeria de posibilidades de Github Pages
 
 Esta página es una demostracion de posibles capacidades para una web hecha en Markdown-Jekyll.
 
