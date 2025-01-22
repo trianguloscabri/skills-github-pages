@@ -2,7 +2,7 @@
 title: Triángulos Cabri
 ---
 
-![image001.gif]
+![Logo de Triángulos Cabri](image001.gif)
 
 El Laboratorio Virtual de Triángulos con Cabri es una revista on-line de matemáticas dedicada a la resolución de problemas sobre triángulos.
 
