@@ -5,10 +5,14 @@ title: Galeria de posibilidades de Github Pages
 
 Esta página es una demostracion de posibles capacidades para una web hecha en Markdown-Jekyll.
 
-## Imagen en una localización externa
+## Imagen en nuestra propia estructura web
+
+![Proporcion cordobesa](curso20162017/extra800dam.gif)
+
+## Imagen en una localización externa (en otro dominio)
+No es una práctica recomendada y deberíamos evitarla en lo posible.
 
 ![Definicion de triangulos|400x250](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Euler_diagram_of_triangle_types_es.svg/1920px-Euler_diagram_of_triangle_types_es.svg.png)
-
 
 ## Videos de Youtube
 
