@@ -58,7 +58,7 @@ with open('archivo.txt', 'r') as f:
 
 ## Contar historias con **emojis**
 
-❓🙏😇✌️🤝🟰🙋‍♀️👀💀🔨🤷‍♂️🧾😶👭🤫
+<div style="font-size:2.5em;">❓🙏😇✌️🤝🟰🙋‍♀️👀💀🔨🤷‍♂️🧾😶👭🤫</div>
 
 
 ## Un fichero de **Geogebra** local
