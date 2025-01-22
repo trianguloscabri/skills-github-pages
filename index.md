@@ -11,3 +11,7 @@ Está dirigida por mi amigo Ricardo Barroso Campos, profesor de Didáctica de la
 Esta relación de amistad y el gran acierto de su trabajo hace que sea un placer para mí, en la medida de mis posibilidades, colaborar en la revista.
 
 ## [Curso 2016/17](curso20162017/index.htm)
+
+
+
+## NOTICIAS
