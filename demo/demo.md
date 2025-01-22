@@ -39,7 +39,22 @@ $$
       \huge  i\hbar \frac{\partial \Psi(x,t)}{\partial t} = -\frac{\hbar^2}{2m} \frac{\partial^2 \Psi(x,t)}{\partial x^2} + V(x,t)\Psi(x,t)
 $$
 
-# Un fichero de Geogebra local
+
+## **Código fuente** 
+
+Imprimir un "Hola Mundo" con Java
+```java
+System.out.println("Hola Mundo");
+```
+
+Abrir un fichero con Python
+{% highlight python linenos %}
+with open('archivo.txt', 'r') as f:
+    for linea in f:
+        print(linea.strip())
+{% endhighlight %}
+
+## Un fichero de **Geogebra** local
 
 Este es un ejemplo de cómo incrustar un archivo GeoGebra:
 
@@ -54,22 +69,5 @@ Este es un ejemplo de cómo incrustar un archivo GeoGebra:
   applet.inject('geogebra');
 </script>
 <script src="https://cdn.geogebra.org/apps/deployggb.js"></script>
-
-
-## Código fuente 
-
-Imprimir un "Hola Mundo" con Java
-```java
-System.out.println("Hola Mundo");
-```
-
-Abrir un fichero con Python
-{% highlight python linenos %}
-with open('archivo.txt', 'r') as f:
-    for linea in f:
-        print(linea.strip())
-{% endhighlight %}
-
-
 
 
