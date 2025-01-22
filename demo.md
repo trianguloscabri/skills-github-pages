@@ -24,7 +24,7 @@ $$  K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar)  $$
 
 
 $$
-        i\hbar \frac{\partial \Psi(x,t)}{\partial t} = -\frac{\hbar^2}{2m} \frac{\partial^2 \Psi(x,t)}{\partial x^2} + V(x,t)\Psi(x,t)
+      \huge  i\hbar \frac{\partial \Psi(x,t)}{\partial t} = -\frac{\hbar^2}{2m} \frac{\partial^2 \Psi(x,t)}{\partial x^2} + V(x,t)\Psi(x,t)
 $$
 
 ## Código fuente 
