@@ -33,4 +33,13 @@ $$
 System.out.println("Hola Mundo");
 ```
 
+{% highlight python linenos %}
+# Abrir un fichero en modo lectura
+with open('archivo.txt', 'r') as f:
+    for linea in f:
+        print(linea.strip())
+{% endhighlight %}
+
+
+
 
