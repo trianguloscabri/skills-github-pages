@@ -12,7 +12,7 @@ Esta página es una demostracion de posibles capacidades para una web hecha en M
 ## Imagen en una localización externa (en otro dominio)
 No es una práctica recomendada y deberíamos evitarla en lo posible.
 
-![Definicion de triangulos](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Euler_diagram_of_triangle_types_es.svg/1920px-Euler_diagram_of_triangle_types_es.svg.png){: width="450" }
+![Definicion de triangulos](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Euler_diagram_of_triangle_types_es.svg/1920px-Euler_diagram_of_triangle_types_es.svg.png){: width="550" }
 
 ## Videos de Youtube
 
@@ -21,6 +21,11 @@ No es una práctica recomendada y deberíamos evitarla en lo posible.
 ## Expresiones matemáticas en Latex
 
 $$  K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar)  $$
+
+
+$$
+        i\hbar \frac{\partial \Psi(x,t)}{\partial t} = -\frac{\hbar^2}{2m} \frac{\partial^2 \Psi(x,t)}{\partial x^2} + V(x,t)\Psi(x,t)
+$$
 
 ## Código fuente 
 
