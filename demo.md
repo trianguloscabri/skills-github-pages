@@ -1,5 +1,5 @@
 ---
-use_math: true
+usemathjax: true
 title: Página de demostración
 ---
 
