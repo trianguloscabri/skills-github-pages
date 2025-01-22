@@ -27,6 +27,23 @@ $$
       \huge  i\hbar \frac{\partial \Psi(x,t)}{\partial t} = -\frac{\hbar^2}{2m} \frac{\partial^2 \Psi(x,t)}{\partial x^2} + V(x,t)\Psi(x,t)
 $$
 
+# Un fichero de geogebra Online
+
+Este es un ejemplo de cómo incrustar un archivo GeoGebra:
+
+<div id="geogebra"></div>
+<script>
+  var applet = new GGBApplet({
+    "filename": "https://www.geogebra.org/material/iframe/e2vzakjh",
+    "showToolbar": true,
+    "showAlgebraInput": true,
+    "showMenuBar": true
+  }, true);
+  applet.inject('geogebra');
+</script>
+<script src="https://cdn.geogebra.org/apps/deployggb.js"></script>
+
+
 ## Código fuente 
 
 ```java
