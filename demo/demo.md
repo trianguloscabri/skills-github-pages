@@ -63,7 +63,6 @@ with open('archivo.txt', 'r') as f:
 
 ## Un fichero de **Geogebra** local
 
-Este es un ejemplo de cómo incrustar un archivo GeoGebra:
 
 <script src="https://cdn.geogebra.org/apps/deployggb.js"></script>
 <div id="geogebra" style="width: 800px; height: 600px;"></div>
@@ -77,9 +76,7 @@ var applet = new GGBApplet({
 applet.inject('geogebra');
 </script>
 
-<iframe src="geogebra-demo.html" 
-        width="800" height="600" style="border:2px solid red;">
-</iframe>
+
 
 
 
