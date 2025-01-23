@@ -78,7 +78,7 @@ applet.inject('geogebra');
 </script>
 
 <iframe src="geogebra-demo.html" 
-        width="800" height="600" style="border:0px;">
+        width="800" height="600" style="border:2px solid red;">
 </iframe>
 
 
