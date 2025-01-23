@@ -10,8 +10,12 @@ Está dirigida por mi amigo Ricardo Barroso Campos, profesor de Didáctica de la
 
 Esta relación de amistad y el gran acierto de su trabajo hace que sea un placer para mí, en la medida de mis posibilidades, colaborar en la revista.
 
-## [Curso 2016/17](curso20162017/index.htm)
+## 
 
+| :------: | :---: | :-------: | :-----: |
+| [Curso 2021/22](curso20212022/index.htm) | [Curso 2020/21](curso20202021/index.htm)|  [Curso 2019/20](curso20192020/index.htm)|  [Curso 2018/19](curso20182019/index.htm)|
+| opción 2 |       |     x     |         |
+| opcion 3 |   x   |           |    x    |
 
 
 ## NOTICIAS
