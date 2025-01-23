@@ -1,11 +1,23 @@
-<div id="geogebra"></div>
-<script>
-  var applet = new GGBApplet({
-    "filename": "material-fpgkybfj.ggb",
-    "showToolbar": true,
-    "showAlgebraInput": true,
-    "showMenuBar": true
-  }, true);
-  applet.inject('geogebra');
-</script>
-<script src="https://cdn.geogebra.org/apps/deployggb.js"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GeoGebra Integration</title>
+    <script src="https://cdn.geogebra.org/apps/deployggb.js"></script>
+</head>
+<body>
+    <div id="geogebra" style="width: 800px; height: 600px;"></div>
+    <script>
+        var applet = new GGBApplet({
+            "filename": "./material-fpgkybfj.ggb", // Cambia esto según la ubicación de tu archivo
+            "showToolbar": true,
+            "showAlgebraInput": true,
+            "showMenuBar": true
+        }, true);
+
+        // Inyectar en el contenedor con ID 'geogebra'
+        applet.inject('geogebra');
+    </script>
+</body>
+</html>
