@@ -1,9 +1,12 @@
 ---
 usemathjax: true
-title: Galeria de posibilidades de Github Pages
+title: Github Pages Cheatsheet
 ---
 
-Esta página es una demostracion de posibles capacidades para una web hecha en Markdown-Jekyll.
+## **Markdown** básico
+
+Se han obviado los aspectos más básicos del [Markdown](https://www.markdownguide.org/cheat-sheet/) que pueden ser encontrados por internet fácilmente, 
+esta página se centra sobre todo en intentar añadir elementos un poco más complejos a un Markdown y la página html que posteriormente genera Jekyll.
 
 ## Presentar información en una **Tabla**
 
