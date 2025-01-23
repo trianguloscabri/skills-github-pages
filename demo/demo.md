@@ -65,16 +65,22 @@ with open('archivo.txt', 'r') as f:
 
 Este es un ejemplo de cómo incrustar un archivo GeoGebra:
 
-   <script src="https://cdn.geogebra.org/apps/deployggb.js"></script>
-   <div id="geogebra" style="width: 800px; height: 600px;"></div>
-    <script>
-        var applet = new GGBApplet({
-            "filename": "./material-fpgkybfj.ggb", // Cambia esto según la ubicación de tu archivo
-            "showToolbar": true,
-            "showAlgebraInput": true,
-            "showMenuBar": true
-        }, true);
-        applet.inject('geogebra');
-    </script>
+<script src="https://cdn.geogebra.org/apps/deployggb.js"></script>
+<div id="geogebra" style="width: 800px; height: 600px;"></div>
+<script>
+var applet = new GGBApplet({
+"filename": "./material-fpgkybfj.ggb", // Cambia esto según la ubicación de tu archivo
+"showToolbar": true,
+"showAlgebraInput": true,
+"showMenuBar": true
+}, true);
+applet.inject('geogebra');
+</script>
+
+<iframe src="geogebra-demo.html" 
+        width="800" height="600" style="border:0px;">
+</iframe>
+
+
 
 
